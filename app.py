@@ -39,8 +39,10 @@ html, body, [class*="css"] { font-family: 'IBM Plex Sans', sans-serif; }
 .topbar h1 { margin: 0; font-size: 1.7rem; font-weight: 600; color: #0B1F3A; }
 .topbar p { margin: 4px 0 0; color: #5B6B82; }
 .kpi { border: 1px solid #D9E1EC; border-radius: 6px; padding: 12px 16px; background: #fff; }
+.kpi { color: #0B1F3A; }
 .kpi .v { font-size: 1.5rem; font-weight: 600; color: #0B1F3A; }
 .kpi .l { font-size: .85rem; color: #5B6B82; }
+.result, .result b { color: #0B1F3A; }
 .result { border: 1px solid #D9E1EC; border-left: 6px solid #0E7C86; border-radius: 6px; padding: 16px 20px; background: #fff; }
 .result .l { font-size: .85rem; color: #5B6B82; }
 .result .cat { font-size: 1.6rem; font-weight: 600; color: #0B1F3A; }
