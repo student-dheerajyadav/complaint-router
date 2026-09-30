@@ -34,7 +34,7 @@ st.markdown("""
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 html, body, [class*="css"] { font-family: 'IBM Plex Sans', sans-serif; }
 #MainMenu, footer { visibility: hidden; }
-.block-container { padding-top: 1.6rem; max-width: 1200px; }
+.block-container { padding-top: 4.5rem; max-width: 1200px; }
 .topbar { border-bottom: 3px solid #0E7C86; padding-bottom: 12px; margin-bottom: 18px; }
 .topbar h1 { margin: 0; font-size: 1.7rem; font-weight: 600; color: #0B1F3A; }
 .topbar p { margin: 4px 0 0; color: #5B6B82; }
